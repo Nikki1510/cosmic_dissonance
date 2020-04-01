@@ -2,7 +2,7 @@
 This repository contains the code used to generate the results from the paper "Cosmic dissonance: new physics or systematics behind a short sound horizon?" by Nikki Arendse, Radek Wojtak and Adriano Agnello (https://arxiv.org/pdf/1909.07986.pdf). 
 
 ### Description
-In our paper, we use late-time probes such as supernova (SN), Baryon Acoustic Oscillations (BAO) and calibrate them with absolute distance measurements from gravitational lensing, Cepheids and the Tip of the Red Giant Branch to obtain a measurement of the sound horizon and the Hubble constant. We use 4 different models to infer the expansion history: models 1-3 are polynomial parametrizations and do not depend on a cosmological model, and model 4 is the standard LCDM model.
+In our paper, we use late-time probes such as supernova (SN) and Baryon Acoustic Oscillations (BAO) and calibrate them with absolute distance measurements from gravitational lensing, Cepheids and the Tip of the Red Giant Branch to obtain a measurement of the sound horizon and the Hubble constant. We use 4 different models to infer the expansion history: models 1-3 are polynomial parametrizations and do not depend on a cosmological model, and model 4 is the standard LCDM model.
 
 ### Usage
 Download the complete cosmic_dissonance repository. With Python, run either
