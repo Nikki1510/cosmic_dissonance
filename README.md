@@ -7,7 +7,7 @@ In our paper, we use late-time probes such as supernova (SN) and Baryon Acoustic
 ### Usage
 Download the complete cosmic_dissonance repository. With Python, run either
 * _Run.py:_ to generate data. This will create new files in the folders Chains, Output and Testing.
-* _Fig_test.py:_ to visually inspect the data. This will generate figures in the folder Figures. _Fig_test.py_ can only be ran for data that is already available. To begin with, I already provided an example data file (where model 3 is ran with SN, BAO and Cepheids).
+* _Fig_test.py:_ to visually inspect the data. This will generate figures in the folder Figures. _Fig_test.py_ can only be ran to check data that is already generated. To begin with, I have provided an example data file (where model 3 is ran with SN, BAO and Cepheids).
 
 ### Contact
 Any questions? Email me at nikki.arendse@nbi.ku.dk
