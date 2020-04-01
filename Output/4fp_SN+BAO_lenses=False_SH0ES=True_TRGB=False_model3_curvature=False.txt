@@ -1,0 +1,16 @@
+Model = 3
+Curvature =  False
+Data sets: SN, BAO, lenses = False, SH0ES = True, TRGB = False
+Nwalkers =  100 , nburn =  2000 , nruns =  2000
+Free parameters: 4
+ 
+r_s = 136.374+/-3.353
+H0 r_s = 10068.460+/-155.652
+H0 = 73.857+/-1.412
+q0 = -0.582+/-0.364
+j0 = 1.105+/-6.753
+M = 5.761+/-0.048
+LLH =  -21.538233445955647
+BIC =  66.17735250217164
+ 
+Time elapsed: 1.93 min
